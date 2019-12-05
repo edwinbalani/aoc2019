@@ -1,0 +1,14 @@
+### https://raw.github.com/github/gitignore/e2e54ce6be90a3ca9c1da57031dc70bf62ed7921/Elixir.gitignore
+
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+.elixir_ls/
+
+
